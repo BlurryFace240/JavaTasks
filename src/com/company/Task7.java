@@ -41,8 +41,6 @@ public class Task7 {
     public static void main(String [] args)
     {
         String sumStr="";
-        int j=0;
-        int k=0;
         long l1=0;
         Person p = new Person("Eugen",18,'M');
         Person p1 = new Person("Xenia",19,'F');
@@ -65,7 +63,6 @@ public class Task7 {
                 l1 += Long.parseLong(obj[i].toString());
             } else if (obj[i] instanceof Person) {
                 objpers.add(obj[i]);
-                j++;
             }
         }
 

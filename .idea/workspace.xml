@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d020578-a500-4159-a1c2-494452e4b502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTask1/com/company/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTask1/com/company/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTask1/com/company/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTask1/com/company/Task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Task7.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="136">
               <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
@@ -72,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="79" column="108" selection-start-line="79" selection-start-column="108" selection-end-line="79" selection-end-column="108" />
+            <state relative-caret-position="-26">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding>
                 <element signature="e#279#280#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
@@ -83,7 +82,6 @@
                 <element signature="e#421#422#0" expanded="true" />
                 <element signature="e#471#472#0" expanded="true" />
                 <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#969#977#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +131,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,13 +154,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551696582961" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551703589719" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Task to send/JavaTask1" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -271,7 +269,8 @@
       <option name="presentableId" value="Default" />
       <updated>1551438195501</updated>
       <workItem from="1551438198814" duration="11236000" />
-      <workItem from="1551682144221" duration="6235000" />
+      <workItem from="1551682144221" duration="6948000" />
+      <workItem from="1551784392268" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Tasks">
       <created>1551696145774</created>
@@ -284,12 +283,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17471000" />
+    <option name="totallyTimeSpent" value="18218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12178517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123298034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10445469" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17511521" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,6 +328,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/JavaTask1/src/com/company/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="101" column="36" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="101" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -351,7 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
+        <state relative-caret-position="136">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
@@ -370,17 +377,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/JavaTask1/src/com/company/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="981">
-          <caret line="101" column="36" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="101" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Task7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="79" column="108" selection-start-line="79" selection-start-column="108" selection-end-line="79" selection-end-column="108" />
+        <state relative-caret-position="-26">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
@@ -390,7 +390,6 @@
             <element signature="e#421#422#0" expanded="true" />
             <element signature="e#471#472#0" expanded="true" />
             <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#969#977#0" expanded="true" />
           </folding>
         </state>
       </provider>
